@@ -9,7 +9,7 @@ Repository for the first hack of the Social Oplesk Advanced Backend course.
   </tr>
 
   <tr>
-    <td><a href="https://github.com/">Adrián Estrada</a></td>
+    <td><a href="https://github.com/aeec21">Adrián Estrada</a></td>
     <td>Venezuela</td>
     <td>Alfa</td>
   </tr>
